@@ -39,7 +39,7 @@ Aim for a score of 21 without busting to win the round.
 Ready to enhance the game? We welcome contributions! Follow our contribution guidelines to get started.
 
 ## Authors
-Md Nayeemuddin - Student of CSE -  [@your-github-nayeem329] - Built this project
+Md Nayeemuddin - Student of CSE -  [github-nayeem329] - Built this project
 
 ## Acknowledgements
 This project draws inspiration from the classic Blackjack game.
